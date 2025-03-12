@@ -1,0 +1,71 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 29/12/2020 09:26
+  	*/
+
+	@font-face {
+	    font-family: "Flaticon";
+	    src: url("./Flaticon.eot");
+	    src: url("./Flaticon.eot?#iefix") format("embedded-opentype"), url("./Flaticon.woff2") format("woff2"), url("./Flaticon.woff") format("woff"), url("./Flaticon.ttf") format("truetype"), url("./Flaticon.svg#Flaticon") format("svg");
+	    font-weight: normal;
+	    font-style: normal;
+	}
+
+	@media screen and (-webkit-min-device-pixel-ratio:0) {
+	    @font-face {
+	        font-family: "Flaticon";
+	        src: url("./Flaticon.svg#Flaticon") format("svg");
+	    }
+	}
+
+	[class^="flaticon-"]:before,
+	[class*=" flaticon-"]:before,
+	[class^="flaticon-"]:after,
+	[class*=" flaticon-"]:after {
+	    font-family: Flaticon;
+	    font-style: normal;
+	}
+
+	.flaticon-motorbike:before {
+	    content: "\f100";
+	}
+
+	.flaticon-motorcycle:before {
+	    content: "\f101";
+	}
+
+	.flaticon-gloves:before {
+	    content: "\f102";
+	}
+
+	.flaticon-motocross:before {
+	    content: "\f103";
+	}
+
+	.flaticon-leather-biker-jacket:before {
+	    content: "\f104";
+	}
+
+	.flaticon-shoes:before {
+	    content: "\f105";
+	}
+
+	.flaticon-headlights:before {
+	    content: "\f106";
+	}
+
+	.flaticon-glove:before {
+	    content: "\f107";
+	}
+
+	.flaticon-chain:before {
+	    content: "\f108";
+	}
+
+	.flaticon-cassette:before {
+	    content: "\f109";
+	}
+
+	.flaticon-tools-and-utensils:before {
+	    content: "\f10a";
+	}
