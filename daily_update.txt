@@ -119,3 +119,4 @@ Update 1: 2026-03-10 15:49:50
 2026-04-10 19:16:10 - add admin panel #1
 2026-04-10 19:16:42 - update fonts #2
 2026-04-10 19:17:22 - fix login bug #3
+2026-04-10 19:17:42 - improve loading speed #4
