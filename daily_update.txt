@@ -136,3 +136,4 @@ Update 1: 2026-03-10 15:49:50
 2026-04-13 16:23:17 - minor tweaks #5
 2026-04-13 16:23:30 - update config files #6
 2026-04-13 16:23:47 - remove deprecated code #7
+2026-04-13 16:23:58 - add integration tests #8
